@@ -1,5 +1,5 @@
 # chat
-
+![alt text](https://i.ibb.co/RhK8Z1r/chatapp.png)
 A new Flutter application.
 
 ## Getting Started
